@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 
-```{r pressure, echo=FALSE}
+```{r }
 #第一步：数据读取与观察
 #https://www.kaggle.com/c/titanic
 titanic<-read.csv(file.choose())
